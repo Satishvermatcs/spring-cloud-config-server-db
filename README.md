@@ -1,1 +1,1 @@
-# spring-cloud-config-server-db
+# spring-cloud-config-server
